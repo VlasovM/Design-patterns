@@ -12,6 +12,7 @@ ___
 В каждом пакете паттерна есть свой ReadMe файл с подробным описанием паттерна.
 
 ## Структура:
+- simUDuck: паттерн **"Стратегия"**;
 
 ## Контакты:
 Власов Максим Александрович | https://t.me/JaVlasov
@@ -20,7 +21,7 @@ ___
 # English version
 
 # Navigation
-- [Описание](#Description)
+- [Description](#Description)
 - [Structure](#Structure)
 - [Contacts](#Contacts)
 
@@ -30,6 +31,7 @@ In this repository, you can see code examples of design patterns from the book *
 Each pattern package has its own ReadMe file with a detailed description of the pattern.
 
 ## Structure:
+- simUDuck: pattern **"Strategy"**;
 
 ## Contacts:
 Vlasov Maxim Aleksandrovich | https://t.me/JaVlasov
