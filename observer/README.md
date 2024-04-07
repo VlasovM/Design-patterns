@@ -6,4 +6,4 @@
 
 # Диаграмма классов:
 
-![image](diagram/observer.PNG )</h2>
+![image](diagram/Observer.PNG )</h2>
