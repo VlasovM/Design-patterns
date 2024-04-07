@@ -4,7 +4,7 @@ import model.ModelDuck;
 import model.fly.impl.FlyNoWay;
 import model.quack.impl.Squeak;
 
-public class Main {
+public class Strategy {
 
     public static void main(String[] args) {
         Duck mallardDuck = new MallardDuck();
