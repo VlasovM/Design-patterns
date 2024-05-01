@@ -6,8 +6,8 @@ import model.quack.impl.Quack;
 public class ModelDuck extends Duck {
 
     public ModelDuck() {
-        flyBehavior = new FlyNoWay();
-        quackBehavior = new Quack();
+        setQuackBehavior(new Quack());
+        setFlyBehavior(new FlyNoWay());
     }
 
     @Override
