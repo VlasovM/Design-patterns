@@ -5,11 +5,8 @@ import model.quack.QuackBehavior;
 
 public abstract class Duck {
 
-    protected FlyBehavior flyBehavior;
-    protected QuackBehavior quackBehavior;
-
-    public Duck() {
-    }
+    private FlyBehavior flyBehavior;
+    private QuackBehavior quackBehavior;
 
     public void setFlyBehavior(FlyBehavior flyBehavior) {
         this.flyBehavior = flyBehavior;
