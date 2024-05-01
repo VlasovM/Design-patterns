@@ -1,9 +1,9 @@
-package store.impl;
+package factory.impl;
 
 import product.Pizza;
 import product.impl.NYStyleCheesePizza;
 import product.impl.NYStylePepperoniPizza;
-import store.PizzaStore;
+import factory.PizzaStore;
 
 //Concrete creator
 public class NYPizzaStore extends PizzaStore {

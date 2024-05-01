@@ -1,8 +1,8 @@
-package store.impl;
+package factory.impl;
 
 import product.Pizza;
 import product.impl.ChicagoStyleCheesePizza;
-import store.PizzaStore;
+import factory.PizzaStore;
 
 public class ChicagoPizzaStore extends PizzaStore {
 

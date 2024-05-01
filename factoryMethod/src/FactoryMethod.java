@@ -1,7 +1,7 @@
 import product.Pizza;
-import store.PizzaStore;
-import store.impl.ChicagoPizzaStore;
-import store.impl.NYPizzaStore;
+import factory.PizzaStore;
+import factory.impl.ChicagoPizzaStore;
+import factory.impl.NYPizzaStore;
 
 public class FactoryMethod {
 
